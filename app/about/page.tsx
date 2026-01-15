@@ -12,7 +12,7 @@ export default function AboutPage() {
             About Harsh Academy
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
-            Building strong academic foundations with values, discipline, and excellence since 2009
+            Building strong academic foundations with values, discipline, and excellence 
           </p>
         </div>
       </section>
