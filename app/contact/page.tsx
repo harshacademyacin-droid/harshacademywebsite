@@ -330,9 +330,9 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold text-lg mb-1">Address</h4>
                       <p className="text-blue-100">
-                        318-MAIN BAZAR SAIYAN
+                        Agra gwalior road,
                         <br />
-                        Agra, Uttar Pradesh - 283124
+                        near railway and police station, SAIYAN
                         <br />
                         India
                       </p>
@@ -357,7 +357,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-lg mb-1">Phone</h4>
-                      <p className="text-blue-100">+91 9389681785</p>
+                      <p className="text-blue-100">+91 9927700400</p>
                     </div>
                   </div>
 

@@ -9,7 +9,7 @@ export default function TopBar() {
           </span>
           <span className="hidden md:flex items-center">
             <span className="mr-2">📞</span>
-            +91 9389681785
+            +91 9927700400
           </span>
         </div>
         <div className="flex items-center">

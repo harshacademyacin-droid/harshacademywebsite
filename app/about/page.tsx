@@ -18,7 +18,7 @@ export default function AboutPage() {
       </section>
 
       {/* Story Section */}
-      <section className="py-24 px-4 bg-white">
+      {/* <section className="py-24 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
@@ -53,7 +53,7 @@ export default function AboutPage() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Mission & Vision - Modern Cards */}
       <section className="py-24 px-4 bg-gradient-to-b from-slate-50 to-white">
