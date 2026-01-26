@@ -1,4 +1,24 @@
 import Image from "next/image";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Academic Programs - Nursery to Class 8",
+  description: "Explore Harsh Academy's academic programs from Nursery to Class VIII. Modern curriculum, expert faculty, interactive learning methods. Quality education in Saiyan, Agra.",
+  keywords: [
+    "academics Harsh Academy",
+    "curriculum Saiyan school",
+    "nursery to class 8",
+    "primary education Agra",
+    "school programs Saiyan",
+    "quality education Agra",
+    "CBSE curriculum"
+  ],
+  openGraph: {
+    title: "Academic Programs - Harsh Academy Saiyan Agra",
+    description: "Comprehensive education from Nursery to Class VIII with modern curriculum and expert faculty.",
+    url: "https://harshacademy.in/academics",
+  },
+};
 
 export default function AcademicsPage() {
   return (

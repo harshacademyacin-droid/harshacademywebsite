@@ -1,3 +1,23 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About Us - Our Mission & Vision",
+  description: "Learn about Harsh Academy Saiyan Agra - 15+ years of educational excellence. Discover our mission, vision, core values, and commitment to quality education from Nursery to Class 8.",
+  keywords: [
+    "about Harsh Academy",
+    "school mission vision",
+    "educational excellence Saiyan",
+    "best school values Agra",
+    "quality education Saiyan",
+    "school history Agra"
+  ],
+  openGraph: {
+    title: "About Harsh Academy - Our Mission & Vision",
+    description: "15+ years of educational excellence in Saiyan, Agra. Learn about our mission, vision, and commitment to quality education.",
+    url: "https://harshacademy.in/about",
+  },
+};
+
 export default function AboutPage() {
   return (
     <main className="min-h-screen">

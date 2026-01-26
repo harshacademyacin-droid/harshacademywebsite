@@ -1,3 +1,24 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Admission Procedure 2026-2027 - Enroll Now",
+  description: "Admissions open at Harsh Academy Saiyan Agra for 2026-2027. Learn about our admission procedure, eligibility criteria, and application process from Nursery to Class 8.",
+  keywords: [
+    "school admission Saiyan",
+    "admission 2026 Agra",
+    "school enrollment near me",
+    "admission procedure Harsh Academy",
+    "nursery admission Saiyan",
+    "school admission process Agra",
+    "enroll in school Saiyan"
+  ],
+  openGraph: {
+    title: "Admission 2026-2027 - Harsh Academy Saiyan Agra",
+    description: "Admissions open! Join Harsh Academy for quality education from Nursery to Class 8. Limited seats available.",
+    url: "https://harshacademy.in/admission",
+  },
+};
+
 export default function AdmissionPage() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
