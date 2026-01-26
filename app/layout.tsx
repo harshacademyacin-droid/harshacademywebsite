@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://harshacademy.in'), // Update with your actual domain
+  metadataBase: new URL('https://harshacademy.co.in'), // Update with your actual domain
   title: {
     default: "Harsh Academy Saiyan Agra | Best School in Saiyan | Nursery to Class 8",
     template: "%s | Harsh Academy Saiyan Agra"
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://harshacademy.in",
+    url: "https://harshacademy.co.in",
     siteName: "Harsh Academy Saiyan Agra",
     title: "Harsh Academy Saiyan Agra | Best School in Saiyan | Nursery to Class 8",
     description: "Premier educational institution in Saiyan, Agra. Quality education from Nursery to Class 8 with expert faculty and modern facilities. Admissions open!",
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://harshacademy.in",
+    canonical: "https://harshacademy.co.in",
   },
   verification: {
     // Add your verification codes here after registering with these services
@@ -95,11 +95,11 @@ export default function RootLayout({
     "name": "Harsh Academy",
     "alternateName": "Harsh Academy Saiyan",
     "description": "Premier educational institution in Saiyan, Agra offering quality education from Nursery to Class 8 with expert faculty and modern facilities.",
-    "url": "https://harshacademy.in",
-    "logo": "https://harshacademy.in/images/logo.png",
-    "image": "https://harshacademy.in/images/banner2.jpg",
+    "url": "https://harshacademy.co.in",
+    "logo": "https://harshacademy.co.in/images/logo.png",
+    "image": "https://harshacademy.co.in/images/banner2.jpg",
     "telephone": "+91-XXXXXXXXXX", // Update with actual phone number
-    "email": "info@harshacademy.in", // Update with actual email
+    "email": "info@harshacademy.co.in", // Update with actual email
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Main Road, Saiyan", // Update with actual address

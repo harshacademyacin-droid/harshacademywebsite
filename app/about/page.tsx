@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About Harsh Academy - Our Mission & Vision",
     description: "15+ years of educational excellence in Saiyan, Agra. Learn about our mission, vision, and commitment to quality education.",
-    url: "https://harshacademy.in/about",
+    url: "https://harshacademy.co.in/about",
   },
 };
 

@@ -10,7 +10,7 @@ Disallow: /_next/
 Disallow: /admin/
 
 # Sitemap location
-Sitemap: https://harshacademy.in/sitemap.xml
+Sitemap: https://harshacademy.co.in/sitemap.xml
 
 # Crawl delay (optional - helps prevent server overload)
 Crawl-delay: 1

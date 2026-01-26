@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Admission 2026-2027 - Harsh Academy Saiyan Agra",
     description: "Admissions open! Join Harsh Academy for quality education from Nursery to Class 8. Limited seats available.",
-    url: "https://harshacademy.in/admission",
+    url: "https://harshacademy.co.in/admission",
   },
 };
 

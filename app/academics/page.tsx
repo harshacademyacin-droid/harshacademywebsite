@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Academic Programs - Harsh Academy Saiyan Agra",
     description: "Comprehensive education from Nursery to Class VIII with modern curriculum and expert faculty.",
-    url: "https://harshacademy.in/academics",
+    url: "https://harshacademy.co.in/academics",
   },
 };
 

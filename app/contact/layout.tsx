@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Contact Harsh Academy - Saiyan, Agra",
     description: "Get in touch with us for admission inquiries. Located on Agra Gwalior Road, near railway and police station, Saiyan.",
-    url: "https://harshacademy.in/contact",
+    url: "https://harshacademy.co.in/contact",
   },
 };
 
